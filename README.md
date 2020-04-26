@@ -156,7 +156,7 @@ is something called [pseudocode](http://en.wikipedia.org/wiki/Pseudocode). It sh
 You should also include information about which system (Mac/Windows/Linux) you used the software on and whether you 
 tried it more than once to confirm it gave the same results. Ideally, you will run this by a fellow student/labmate
 to confirm that they can obtain the same output file you did. 
-
+learning to make changes to this file and contribute 
 
 
 
